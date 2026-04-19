@@ -1,0 +1,6 @@
+{
+  "name": "Feature Tracker Dashboard",
+  "description": "A simple, mobile-friendly dashboard for tracking feature development status and delays from a Google Sheet CSV source.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
